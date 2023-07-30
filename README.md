@@ -1,1 +1,1 @@
-# coding-project-template
+Budget allocation app for company
